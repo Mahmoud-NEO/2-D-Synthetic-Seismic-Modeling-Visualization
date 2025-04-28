@@ -1,4 +1,4 @@
-```markdown
+
 # 2-D Synthetic Seismic Forward-Modelling  
 *A start-to-finish Python workflow that converts velocity–density grids into synthetic seismic sections in both time and depth domains.*
 
